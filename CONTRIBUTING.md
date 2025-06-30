@@ -77,6 +77,7 @@ Brief description of what this prompt does and when to use it.
 - Secondary: [e.g., Code Review, Documentation, Deployment]
 
 ## Use Cases
+
 - Use case 1
 - Use case 2
 - Use case 3

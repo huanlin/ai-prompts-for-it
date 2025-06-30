@@ -69,6 +69,7 @@ git push origin add-new-prompts
 # [提示標題]
 
 ## 描述
+
 簡要描述此提示的功能和使用時機。
 
 ## 分類
@@ -77,6 +78,7 @@ git push origin add-new-prompts
 - 次要: [例如，程式碼審查、文件、部署]
 
 ## 使用案例
+
 - 使用案例 1
 - 使用案例 2
 - 使用案例 3
