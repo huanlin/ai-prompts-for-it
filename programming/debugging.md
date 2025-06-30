@@ -129,7 +129,3 @@ The AI will provide:
 - Mention any recent changes to code or environment
 - Include sample data or inputs that trigger the issue
 - Follow up with results of suggested debugging steps
-
-## Version History
-
-- v1.0 - Initial systematic debugging template

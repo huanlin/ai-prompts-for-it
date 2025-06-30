@@ -113,7 +113,3 @@ The AI will provide a structured review covering:
 - Mention any specific concerns or areas of focus
 - For large codebases, review smaller chunks at a time
 - Follow up with specific questions about suggested improvements
-
-## Version History
-
-- v1.0 - Initial comprehensive review template

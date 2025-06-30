@@ -120,7 +120,3 @@ The AI will generate:
 - Specify the target audience to adjust technical depth
 - Request specific formats (OpenAPI, Markdown, etc.) if needed
 - Ask for interactive examples or code snippets in specific languages
-
-## Version History
-
-- v1.0 - Initial API documentation generator template

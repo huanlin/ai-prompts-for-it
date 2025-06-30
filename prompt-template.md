@@ -4,11 +4,6 @@
 
 Brief description of what this prompt does and when to use it.
 
-## Category
-
-- Primary: [e.g., Programming, Writing, DevOps]
-- Secondary: [e.g., Code Review, Documentation, Deployment]
-
 ## Use Cases
 
 - Use case 1
@@ -45,8 +40,3 @@ Describe what kind of output this prompt typically generates.
 - Any specific tips for using this prompt effectively
 - Common variations or modifications
 - What to do if results aren't satisfactory
-
-## Version History
-
-- v1.0 - Initial version
-- [Add version notes as you improve the prompt]
