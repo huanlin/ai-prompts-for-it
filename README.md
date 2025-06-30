@@ -9,15 +9,15 @@ A curated collection of AI prompts specifically designed for IT professionals, i
 ## 📋 Table of Contents
 
 - [About](#about)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Usage Examples](#usage-examples)
-- [Prompt Categories](#prompt-categories)
-- [Contributing](#contributing)
+- [Repository Structure](#repo-structure)
+- [Getting Started](#get-started)
+- [Quick Examples](#examples)
+- [Prompt Categories](#categories)
+- [Contributing](#contrib)
 - [Best Practices](#best-practices)
 - [License](#license)
 
-## 🎯 About
+## 🎯 About {#about}
 
 This repository serves as a comprehensive resource for AI prompts tailored to IT workflows. Whether you're debugging code, writing documentation, planning deployments, or conducting code reviews, you'll find prompts that help you leverage AI more effectively in your daily work.
 
@@ -29,7 +29,7 @@ This repository serves as a comprehensive resource for AI prompts tailored to IT
 - **IT-focused**: Specifically designed for technical use cases
 - **Multi-platform**: Compatible with various AI assistants
 
-## 📁 Repository Structure
+## 📁 Repository Structure {#repo-structure}
 
 ```text
 .
@@ -40,16 +40,14 @@ This repository serves as a comprehensive resource for AI prompts tailored to IT
 └── prompt-template.zh-TW.md
 ```
 
-## 🚀 Getting Started
+## 🚀 Getting Started {#get-started}
 
 1. **Browse the categories** to find prompts relevant to your task
 2. **Copy the prompt** that best matches your needs
 3. **Customize** the prompt with your specific context
 4. **Use with your preferred AI assistant** (Gemini CLI, ChatGPT, Claude, etc.)
 
-### Quick Example
-
-For code review, you might use:
+As an example, for code review, you might use:
 
 ```text
 Analyze the following code for potential issues, security vulnerabilities, and improvement opportunities. Focus on:
@@ -62,28 +60,21 @@ Analyze the following code for potential issues, security vulnerabilities, and i
 [Your code here]
 ```
 
-## 💡 Usage Examples
+## 💡 Quick Start Examples {#examples}
 
-### Programming Prompts
+### Code Review
 
-- **Code Review**: Automated code analysis and suggestions
-- **Debugging**: Step-by-step troubleshooting guidance
-- **Refactoring**: Code improvement recommendations
-- **Testing**: Test case generation and validation
+Use `programming/code-review.md` to get detailed feedback on your code before merging.
 
-### Writing Prompts
+### API Documentation
 
-- **Documentation**: Generate comprehensive technical docs
-- **API Documentation**: Create clear API references
-- **Blog Posts**: Technical content creation assistance
+Use `writing/api-docs-generator.md` to create professional API docs from your code.
 
-### DevOps Prompts
+### Pipeline Optimization
 
-- **Deployment**: CI/CD pipeline optimization
-- **Monitoring**: Alert configuration and dashboard creation
-- **Infrastructure**: Terraform and CloudFormation assistance
+Use `devops/ci-cd-pipeline-optimizer.md` to improve your CI/CD pipeline performance and reliability.
 
-## 📂 Prompt Categories
+## 📂 Prompt Categories {#categories}
 
 ### 🔧 Programming
 
@@ -109,7 +100,7 @@ Analyze the following code for potential issues, security vulnerabilities, and i
 - Performance optimization
 - Security assessments
 
-## 🤝 Contributing
+## 🤝 Contributing {#contrib}
 
 We welcome contributions from the IT community! Here's how you can help:
 
@@ -129,7 +120,7 @@ We welcome contributions from the IT community! Here's how you can help:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## 📋 Best Practices
+## 📋 Best Practices {#best-practices}
 
 ### Writing Effective Prompts
 
@@ -152,7 +143,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - [Gemini CLI Documentation](https://ai.google.dev/gemini-api/docs/cli)
 - [OpenAI Best Practices](https://platform.openai.com/docs/guides/prompt-engineering)
 
-## 📄 License
+## 📄 License {#license}
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -164,63 +155,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the IT community for the IT community**
-
 *Help us grow this collection by contributing your most effective AI prompts!*
 
-
----
-
-# AI Prompts Collection
-
-This directory contains a curated collection of AI prompts organized by category. Each prompt is designed to help IT professionals leverage AI more effectively in their daily work.
-
-## 🚀 How to Use These Prompts
-
-1. **Browse** the categories to find relevant prompts
-2. **Read** the prompt description and use cases
-3. **Copy** the prompt text
-4. **Customize** placeholders with your specific content
-5. **Use** with your preferred AI assistant
-
-## 💡 Quick Start Examples
-
-### Code Review
-
-Use `programming/code-review.md` to get detailed feedback on your code before merging.
-
-### API Documentation
-
-Use `writing/api-docs-generator.md` to create professional API docs from your code.
-
-### Pipeline Optimization
-
-Use `devops/ci-cd-pipeline-optimizer.md` to improve your CI/CD pipeline performance and reliability.
-
-## 🤝 Contributing
-
-Found a great prompt? Want to improve an existing one? See our [Contributing Guide](CONTRIBUTING.md) for details on how to contribute.
-
-### Adding New Prompts
-
-1. Choose the appropriate category directory
-2. Use the template from `templates/prompt-template.md`
-3. Follow the naming convention: `task-description.md`
-4. Test your prompt with at least one AI assistant
-5. Submit a pull request
-
-## 📋 Prompt Quality Standards
-
-All prompts in this collection meet these standards:
-
-- **Clear objective** - Specific, well-defined goals
-- **Proper context** - Necessary background information
-- **Actionable instructions** - Tell the AI exactly what to do
-- **Output format** - Specify desired response format
-- **Examples included** - Show expected usage and results
-- **Tested and verified** - Confirmed to work with AI assistants
-
-## 🔗 Related Resources
+## 🔗 Related Resources {#resources}
 
 - [Main README](../README.md) - Project overview and getting started
 - [Contributing Guide](../CONTRIBUTING.md) - How to contribute prompts
