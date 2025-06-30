@@ -8,15 +8,25 @@
 
 ```text
 轉換所有 C# 檔案為 file-scoped namespaces。
-建立 GitHub Actions workflow 來建置和發布此專案。
-使用 Central Package Management (CPM) 來統一管理相依套件的版本。
-使用 MinVer 套件來自動管理此專案的建置與發布時的版本編號。
-加入單元測試。
 ```
 
-參考資料：
+```text
+建立 GitHub Actions workflow 來建置和發布此專案。
+```
 
-- [Central Package Management (CPM)](https://learn.microsoft.com/en-us/nuget/consume-packages/central-package-management)
+```text
+使用 Central Package Management (CPM) 來統一管理相依套件的版本。
+```
+
+> See also: [Central Package Management (CPM)](https://learn.microsoft.com/en-us/nuget/consume-packages/central-package-management)
+
+```text
+使用 MinVer 套件來自動管理此專案的建置與發布時的版本編號。
+```
+
+```text
+加入單元測試。
+```
 
 ## 已測試平台
 
