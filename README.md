@@ -17,7 +17,7 @@ A curated collection of AI prompts specifically designed for IT professionals, i
 - [Best Practices](#best-practices)
 - [License](#license)
 
-## 🎯 About
+## About
 
 This repository serves as a comprehensive resource for AI prompts tailored to IT workflows. Whether you're debugging code, writing documentation, planning deployments, or conducting code reviews, you'll find prompts that help you leverage AI more effectively in your daily work.
 
@@ -29,7 +29,7 @@ This repository serves as a comprehensive resource for AI prompts tailored to IT
 - **IT-focused**: Specifically designed for technical use cases
 - **Multi-platform**: Compatible with various AI assistants
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 .
@@ -40,7 +40,7 @@ This repository serves as a comprehensive resource for AI prompts tailored to IT
 └── prompt-template.zh-TW.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Browse the categories** to find prompts relevant to your task
 2. **Copy the prompt** that best matches your needs
@@ -60,7 +60,7 @@ Analyze the following code for potential issues, security vulnerabilities, and i
 [Your code here]
 ```
 
-## 💡 Quick Start Examples
+## Quick Start Examples
 
 ### Code Review
 
@@ -74,7 +74,7 @@ Use `writing/api-docs-generator.md` to create professional API docs from your co
 
 Use `devops/ci-cd-pipeline-optimizer.md` to improve your CI/CD pipeline performance and reliability.
 
-## 📂 Prompt Categories
+## Prompt Categories
 
 ### 🔧 Programming
 
@@ -84,7 +84,7 @@ Use `devops/ci-cd-pipeline-optimizer.md` to improve your CI/CD pipeline performa
 - Test generation and validation
 - Architecture design reviews
 
-### ✍️ Technical Writing
+### Technical Writing
 
 - Documentation generation
 - API documentation
@@ -92,7 +92,7 @@ Use `devops/ci-cd-pipeline-optimizer.md` to improve your CI/CD pipeline performa
 - README file creation
 - User guides and tutorials
 
-### 🚀 DevOps & Infrastructure
+### DevOps & Infrastructure
 
 - Deployment automation
 - Infrastructure as Code
@@ -100,7 +100,7 @@ Use `devops/ci-cd-pipeline-optimizer.md` to improve your CI/CD pipeline performa
 - Performance optimization
 - Security assessments
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the IT community! Here's how you can help:
 
@@ -120,7 +120,7 @@ We welcome contributions from the IT community! Here's how you can help:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## 📋 Best Practices
+## Best Practices
 
 ### Writing Effective Prompts
 
@@ -137,11 +137,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - **Verify Output**: Always review and validate AI-generated content
 - **Combine Tools**: Use AI alongside your existing development tools
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙋‍♂️ Support
+## Support
 
 - **Issues**: Report bugs or request features via [GitHub Issues](../../issues)
 - **Discussions**: Join conversations in [GitHub Discussions](../../discussions)
@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Help us grow this collection by contributing your most effective AI prompts!*
 
-## 🔗 Related Resources
+## Related Resources
 
 - [Main README](../README.md) - Project overview and getting started
 - [Contributing Guide](../CONTRIBUTING.md) - How to contribute prompts
