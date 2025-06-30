@@ -76,7 +76,7 @@ Use `devops/ci-cd-pipeline-optimizer.md` to improve your CI/CD pipeline performa
 
 ## Prompt Categories
 
-### 🔧 Programming
+### Programming
 
 - Code review and analysis
 - Debugging and troubleshooting

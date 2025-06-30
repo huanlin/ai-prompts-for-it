@@ -6,18 +6,32 @@
 
 這是一個專為 IT 專業人士（包括開發人員、DevOps 工程師、技術文件撰寫人員和系統管理員）設計的 AI 提示精選集合。這些提示已針對各種 AI 平台（包括 Gemini CLI、ChatGPT、Claude 和其他 AI 助理）進行了最佳化。
 
-## 📋 目錄
+## 目錄
 
-- [關於](#about)
-- [儲存庫結構](#repo-structure)
-- [開始使用](#get-started)
-- [快速入門範例](#examples)
-- [提示分類](#categories)
-- [貢獻](#contrib)
-- [最佳實踐](#best-practices)
-- [授權](#license)
+- [為 IT 人員設計的 AI 提示](#為-it-人員設計的-ai-提示)
+  - [目錄](#目錄)
+  - [About](#about)
+    - [為何使用這些提示？](#為何使用這些提示)
+  - [Repository Structure](#repository-structure)
+  - [Getting Started](#getting-started)
+  - [Quick Start Examples](#quick-start-examples)
+    - [程式碼審查](#程式碼審查)
+    - [API 文件](#api-文件)
+    - [管線最佳化](#管線最佳化)
+  - [Prompt Categories](#prompt-categories)
+    - [程式設計](#程式設計)
+    - [技術寫作](#技術寫作)
+    - [DevOps 與基礎架構](#devops-與基礎架構)
+  - [Contributing](#contributing)
+    - [貢獻指南](#貢獻指南)
+  - [Best Practices](#best-practices)
+    - [撰寫有效的提示](#撰寫有效的提示)
+    - [有效地使用 AI 助理](#有效地使用-ai-助理)
+  - [License](#license)
+  - [🙋‍♂️ 支援](#️-支援)
+  - [🔗 相關資源 {#resources}](#-相關資源-resources)
 
-## 🎯 關於 {#about}
+## About
 
 本儲存庫是針對 IT 工作流程量身打造的 AI 提示綜合資源。無論您是在偵錯程式碼、撰寫文件、規劃部署或進行程式碼審查，您都會找到有助於您在日常工作中更有效地利用 AI 的提示。
 
@@ -29,7 +43,7 @@
 - **專注於 IT**：專為技術使用案例而設計
 - **多平台**：與各種 AI 助理相容
 
-## 📁 儲存庫結構 {#repo-structure}
+## Repository Structure
 
 ```text
 .
@@ -46,7 +60,7 @@
 - `prompt-template.md` - 用於建立新提示的範本和指南（英文版）。
 - `prompt-template.zh-TW.md` - 用於建立新提示的範本和指南（中文版）。
 
-## 🚀 開始使用 {#get-started}
+## Getting Started
 
 1. **瀏覽分類**以尋找與您任務相關的提示
 2. **複製**最符合您需求的提示
@@ -67,7 +81,7 @@
 [此處貼上您的程式碼]
 ```
 
-## 💡 快速入門範例 {#examples}
+## Quick Start Examples
 
 ### 程式碼審查
 
@@ -81,9 +95,9 @@
 
 使用 `devops/ci-cd-pipeline-optimizer.md` 來改善您的 CI/CD 管線效能和可靠性。
 
-## 📂 提示分類 {#categories}
+## Prompt Categories
 
-### 🔧 程式設計
+### 程式設計
 
 - 程式碼審查與分析
 - 偵錯與疑難排解
@@ -91,7 +105,7 @@
 - 測試生成與驗證
 - 架構設計審查
 
-### ✍️ 技術寫作
+### 技術寫作
 
 - 文件產生
 - API 文件
@@ -99,7 +113,7 @@
 - README 檔案建立
 - 使用者指南與教學
 
-### 🚀 DevOps 與基礎架構
+### DevOps 與基礎架構
 
 - 部署自動化
 - 基礎架構即程式碼
@@ -107,7 +121,7 @@
 - 效能最佳化
 - 安全性評估
 
-## 🤝 貢獻 {#contrib}
+## Contributing
 
 我們歡迎 IT 社群的貢獻！您可以透過以下方式提供協助：
 
@@ -127,7 +141,7 @@
 
 詳細指南請參閱 [CONTRIBUTING.zh-TW.md](CONTRIBUTING.zh-TW.md)。
 
-## 📋 最佳實踐 {#best-practices}
+## Best Practices
 
 ### 撰寫有效的提示
 
@@ -144,7 +158,7 @@
 - **驗證輸出**：務必審查和驗證 AI 產生的內容
 - **結合工具**：將 AI 與您現有的開發工具結合使用
 
-## 📄 授權 {#license}
+## License
 
 本專案採用 MIT 授權 - 詳情請參閱 [LICENSE](LICENSE) 檔案。
 
