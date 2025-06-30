@@ -8,28 +8,14 @@
 
 ## 目錄
 
-- [為 IT 人員設計的 AI 提示](#為-it-人員設計的-ai-提示)
-  - [目錄](#目錄)
-  - [About](#about)
-    - [為何使用這些提示？](#為何使用這些提示)
-  - [Repository Structure](#repository-structure)
-  - [Getting Started](#getting-started)
-  - [Quick Start Examples](#quick-start-examples)
-    - [程式碼審查](#程式碼審查)
-    - [API 文件](#api-文件)
-    - [管線最佳化](#管線最佳化)
-  - [Prompt Categories](#prompt-categories)
-    - [程式設計](#程式設計)
-    - [技術寫作](#技術寫作)
-    - [DevOps 與基礎架構](#devops-與基礎架構)
-  - [Contributing](#contributing)
-    - [貢獻指南](#貢獻指南)
-  - [Best Practices](#best-practices)
-    - [撰寫有效的提示](#撰寫有效的提示)
-    - [有效地使用 AI 助理](#有效地使用-ai-助理)
-  - [License](#license)
-  - [🙋‍♂️ 支援](#️-支援)
-  - [🔗 相關資源 {#resources}](#-相關資源-resources)
+- [About](#about)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [Quick Start Examples](#quick-start-examples)
+- [Prompt Categories](#prompt-categories)
+- [Contributing](#contributing)
+- [Best Practices](#best-practices)
+- [License](#license)
 
 ## About
 
