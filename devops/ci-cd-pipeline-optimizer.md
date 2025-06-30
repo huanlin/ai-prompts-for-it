@@ -1,13 +1,11 @@
 # CI/CD Pipeline Optimizer
 
 ## Description
+
 Analyzes and optimizes CI/CD pipelines for better performance, reliability, and security. Provides recommendations for improving build times, deployment strategies, and pipeline architecture.
 
-## Category
-- Primary: DevOps
-- Secondary: Deployment
-
 ## Use Cases
+
 - Pipeline performance optimization
 - Deployment strategy improvement
 - Security enhancement in CI/CD
@@ -15,6 +13,7 @@ Analyzes and optimizes CI/CD pipelines for better performance, reliability, and 
 - Pipeline reliability improvement
 
 ## Prompt
+
 ```
 Please analyze my CI/CD pipeline configuration and provide optimization recommendations. Focus on:
 
@@ -73,6 +72,7 @@ Please provide:
 ```
 
 ## Example Usage
+
 ```
 Please analyze my CI/CD pipeline configuration and provide optimization recommendations. Focus on:
 
@@ -128,7 +128,9 @@ jobs:
 ```
 
 ## Expected Output
+
 The AI will provide:
+
 - Detailed analysis of current pipeline inefficiencies
 - Specific optimization recommendations with code examples
 - Implementation roadmap with priorities
@@ -137,12 +139,14 @@ The AI will provide:
 - Tool recommendations and configuration examples
 
 ## Tested With
+
 - [x] Gemini CLI
 - [x] ChatGPT
 - [x] Claude
 - [ ] Other: ___________
 
 ## Tips
+
 - Include your complete pipeline configuration for accurate analysis
 - Mention specific performance metrics (build times, deployment frequency)
 - Describe current pain points and bottlenecks in detail
@@ -151,5 +155,3 @@ The AI will provide:
 - Ask for specific implementation examples and code snippets
 - Request cost estimates for recommended changes
 
-## Version History
-- v1.0 - Initial CI/CD pipeline optimization template

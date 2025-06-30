@@ -4,11 +4,6 @@
 
 A structured approach to debugging that helps identify root causes, analyze error patterns, and provide step-by-step troubleshooting guidance for various types of programming issues.
 
-## Category
-
-- Primary: Programming
-- Secondary: Debugging
-
 ## Use Cases
 
 - Runtime error troubleshooting

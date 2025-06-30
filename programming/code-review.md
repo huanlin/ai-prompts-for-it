@@ -4,11 +4,6 @@
 
 A thorough code review prompt that analyzes code for quality, security, performance, and maintainability issues. Perfect for getting detailed feedback on code changes before merging.
 
-## Category
-
-- Primary: Programming
-- Secondary: Code Review
-
 ## Use Cases
 
 - Pre-merge code review
