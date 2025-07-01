@@ -6,6 +6,8 @@
 
 ## 提示
 
+在使用以下各個提示之前，建議先用 [analyze-project](analyze-project.zh-TW.md) 裡面的提示詞來讓 AI 替你的專案進行程式架構的分析與總結。然後，從 AI 總結的輸出結果當中，再逐條針對個別改善建議對 AI 提出具體的問題。
+
 ```text
 轉換所有 C# 檔案為 file-scoped namespaces。
 ```
