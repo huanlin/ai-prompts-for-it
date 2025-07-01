@@ -31,9 +31,9 @@ A curated collection of AI prompts specifically for IT professionals, including 
 
 | Folder/File Name              | Description                                       |
 |-------------------------------|----------------------------------------------------------|
-| `devops/`                     | 用於基礎架構、部署和維運任務的提示。                   |
-| `programming/`                | 用於軟體開發任務的提示，包括程式碼審查、偵錯、重構和測試。 |
-| `writing/`                    | 用於技術寫作、文件和內容創作的提示。                   |
+| `devops`                      | 用於基礎架構、部署和維運任務的提示。                   |
+| `programming`                 | 用於軟體開發任務的提示，包括程式碼審查、偵錯、重構和測試。 |
+| `writing`                     | 用於技術寫作、文件和內容創作的提示。                   |
 | `prompt-template.md`          | 用於建立新提示的範本和指南（英文版）。                 |
 | `prompt-template.zh-TW.md`    | 用於建立新提示的範本和指南（中文版）。                  |
 
