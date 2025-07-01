@@ -71,12 +71,7 @@ Use this template for all new prompts:
 ## Description
 Brief description of what this prompt does and when to use it.
 
-## Category
-
-- Primary: [e.g., Programming, Writing, DevOps]
-- Secondary: [e.g., Code Review, Documentation, Deployment]
-
-## Use Cases
+## Use Cases (optional)
 
 - Use case 1
 - Use case 2
@@ -115,54 +110,6 @@ Describe what kind of output this prompt typically generates.
 
 ````
 
-## ✅ Quality Standards
-
-### Prompt Quality
-
-- **Clear objective**: The prompt should have a specific, well-defined goal
-- **Proper context**: Include necessary background information
-- **Actionable instructions**: Tell the AI exactly what to do
-- **Output format**: Specify the desired format when relevant
-- **Examples**: Include examples when they help clarify expectations
-
-### Documentation Quality
-
-- **Complete template**: Fill out all sections of the template
-- **Clear descriptions**: Write descriptions that non-experts can understand
-- **Practical examples**: Show real-world usage scenarios
-- **Testing verification**: Confirm the prompt works as described
-
-### File Organization
-
-- **Correct category**: Place prompts in the most appropriate directory
-- **Descriptive names**: Use clear, descriptive filenames
-- **Consistent formatting**: Follow markdown best practices
-- **No duplicates**: Ensure your prompt doesn't already exist
-
-## 🔍 Review Process
-
-1. **Automated checks**: Basic formatting and structure validation
-2. **Community review**: Other contributors may provide feedback
-3. **Maintainer review**: Final review by project maintainers
-4. **Testing verification**: Confirmation that prompts work as described
-
-## 💡 Tips for Great Contributions
-
-### Writing Effective Prompts
-
-- **Be specific**: Vague prompts produce inconsistent results
-- **Provide context**: Give the AI enough background information
-- **Set constraints**: Specify format, length, style requirements
-- **Use examples**: Show the AI what good output looks like
-- **Test iterations**: Refine based on actual AI responses
-
-### Documentation Best Practices
-
-- **Write for beginners**: Assume readers are new to AI prompts
-- **Include edge cases**: Mention when prompts might not work well
-- **Provide alternatives**: Suggest variations for different scenarios
-- **Keep it updated**: Update prompts if you find better versions
-
 ## 🚫 What Not to Contribute
 
 - Prompts that could be used for harmful purposes
@@ -177,20 +124,6 @@ Describe what kind of output this prompt typically generates.
 - **Be constructive**: Provide helpful feedback on others' contributions
 - **Be collaborative**: Work together to improve prompts
 - **Be patient**: Reviews and responses may take time
-
-## 📞 Getting Help
-
-- **Questions**: Open a [GitHub Discussion](../../discussions)
-- **Issues**: Report problems via [GitHub Issues](../../issues)
-- **Ideas**: Share suggestions in [GitHub Discussions](../../discussions)
-
-## 🏆 Recognition
-
-Contributors will be recognized in:
-
-- Repository contributors list
-- Release notes for significant contributions
-- Special mentions for exceptional prompts
 
 ---
 

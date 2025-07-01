@@ -4,11 +4,12 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated collection of AI prompts specifically designed for IT professionals, including developers, DevOps engineers, technical writers, and system administrators. These prompts are optimized for various AI platforms including Gemini CLI, ChatGPT, Claude, and other AI assistants.
+A curated collection of AI prompts specifically for IT professionals, including developers, DevOps engineers, technical writers, and system administrators.
+
+> Chinese: 此 repo 是用來蒐集供 IT 人員（包括開發人員、DevOps 工程師、技術文件撰寫人員和系統管理員）使用的 AI 提示。
 
 ## 📋 Table of Contents
 
-- [About](#about)
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
 - [Quick Start Examples](#quick-start-examples)
@@ -16,18 +17,6 @@ A curated collection of AI prompts specifically designed for IT professionals, i
 - [Contributing](#contributing)
 - [Best Practices](#best-practices)
 - [License](#license)
-
-## About
-
-This repository serves as a comprehensive resource for AI prompts tailored to IT workflows. Whether you're debugging code, writing documentation, planning deployments, or conducting code reviews, you'll find prompts that help you leverage AI more effectively in your daily work.
-
-### Why Use These Prompts?
-
-- **Time-saving**: Pre-crafted prompts reduce the time spent formulating requests
-- **Consistent results**: Well-tested prompts produce more reliable outputs
-- **Best practices**: Incorporates prompt engineering best practices
-- **IT-focused**: Specifically designed for technical use cases
-- **Multi-platform**: Compatible with various AI assistants
 
 ## Repository Structure
 
@@ -40,6 +29,12 @@ This repository serves as a comprehensive resource for AI prompts tailored to IT
 └── prompt-template.zh-TW.md
 ```
 
+- `devops/` - 用於基礎架構、部署和維運任務的提示。
+- `programming/` - 用於軟體開發任務的提示，包括程式碼審查、偵錯、重構和測試。
+- `writing/` - 用於技術寫作、文件和內容創作的提示。
+- `prompt-template.md` - 用於建立新提示的範本和指南（英文版）。
+- `prompt-template.zh-TW.md` - 用於建立新提示的範本和指南（中文版）。
+
 ## Getting Started
 
 1. **Browse the categories** to find prompts relevant to your task
@@ -51,6 +46,7 @@ As an example, for code review, you might use:
 
 ```text
 Analyze the following code for potential issues, security vulnerabilities, and improvement opportunities. Focus on:
+
 - Code quality and readability
 - Performance optimizations
 - Security best practices
@@ -60,49 +56,55 @@ Analyze the following code for potential issues, security vulnerabilities, and i
 [Your code here]
 ```
 
-## Quick Start Examples
+Chinese version:
 
-### Code Review
+```text
+分析以下程式碼，找出潛在問題、安全漏洞和改進機會。請專注於：
 
-Use `programming/code-review.md` to get detailed feedback on your code before merging.
+- 程式碼品質與可讀性
+- 效能最佳化
+- 安全最佳實踐
+- 錯誤處理
+- 文件完整性
 
-### API Documentation
+[此處貼上您的程式碼]
+```
 
-Use `writing/api-docs-generator.md` to create professional API docs from your code.
+## Use Cases
 
-### Pipeline Optimization
+### Programming (程式設計)
 
-Use `devops/ci-cd-pipeline-optimizer.md` to improve your CI/CD pipeline performance and reliability.
+| English                             | Chinese      |
+| ----------------------------------- | --------- |
+| **Debugging and troubleshooting**   | 偵錯與疑難排解   |
+| **Refactoring and optimizing code** | 程式碼重構與最佳化 |
+| **Generating and validating tests** | 測試生成與驗證   |
+| **Reviewing architectural design**  | 架構設計審查    |
+| **Reviewing and analyzing code**    | 程式碼審查與分析  |
 
-## Prompt Categories
+### Technical Writing (技術寫作)
 
-### Programming
+| English                                | Chinese              |
+|----------------------------------------|------------------------|
+| Generating documentation               | 文件產生               |
+| Creating API documentation             | API 文件               |
+| Writing technical blog posts           | 技術部落格文章         |
+| Creating README files                  | README 檔案建立         |
+| Writing user guides and tutorials      | 使用者指南與教學       |
 
-- Code review and analysis
-- Debugging and troubleshooting
-- Code refactoring and optimization
-- Test generation and validation
-- Architecture design reviews
+### DevOps 與基礎架構
 
-### Technical Writing
-
-- Documentation generation
-- API documentation
-- Technical blog posts
-- README file creation
-- User guides and tutorials
-
-### DevOps & Infrastructure
-
-- Deployment automation
-- Infrastructure as Code
-- Monitoring and alerting
-- Performance optimization
-- Security assessments
+| English                               | Chinese           |
+|---------------------------------------|--------------------|
+| Automating deployment                 | 部署自動化         |
+| Managing infrastructure as code       | 基礎架構即程式碼   |
+| Setting up monitoring and alerts      | 監控與警報         |
+| Optimizing performance                | 效能最佳化         |
+| Conducting security assessments       | 安全性評估         |
 
 ## Contributing
 
-We welcome contributions from the IT community! Here's how you can help:
+Here's how you can help:
 
 1. **Fork** this repository
 2. **Create** a new branch for your prompts
@@ -110,17 +112,9 @@ We welcome contributions from the IT community! Here's how you can help:
 4. **Test** your prompts with different AI assistants
 5. **Submit** a pull request with a clear description
 
-### Contribution Guidelines
-
-- Use the provided template for consistency
-- Include clear descriptions and use cases
-- Test prompts with at least one AI assistant
-- Follow the established directory structure
-- Provide examples where helpful
-
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## Best Practices
+## Best Practices (最佳實踐)
 
 ### Writing Effective Prompts
 
