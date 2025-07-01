@@ -76,13 +76,13 @@ Chinese version:
 
 ### Programming (程式設計)
 
-| English                             | Chinese      |
-| ----------------------------------- | --------- |
-| **Debugging and troubleshooting**   | 偵錯與疑難排解   |
-| **Refactoring and optimizing code** | 程式碼重構與最佳化 |
-| **Generating and validating tests** | 測試生成與驗證   |
-| **Reviewing architectural design**  | 架構設計審查    |
-| **Reviewing and analyzing code**    | 程式碼審查與分析  |
+| English                         | Chinese      |
+| ------------------------------- | --------- |
+| Debugging and troubleshooting   | 偵錯與疑難排解   |
+| Refactoring and optimizing code | 程式碼重構與最佳化 |
+| Generating and validating tests | 測試生成與驗證   |
+| Reviewing architectural design  | 架構設計審查    |
+| Reviewing and analyzing code    | 程式碼審查與分析  |
 
 ### Technical Writing (技術寫作)
 
